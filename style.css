@@ -1,0 +1,16 @@
+.btn-success {
+    background-color:#90ee90;
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+}
+.btn-primary {
+    background-color: aqua;
+    color: azure;
+}
+canvas {
+    border-color: darkslategray;
+}
+body{
+    background-size:cover ;
+}
